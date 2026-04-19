@@ -28,9 +28,14 @@ Global Superstore — 51,290 rows | 147 countries | 2011-2014
 
 ## Dashboard Pages
 1. Executive Summary — KPIs, trends, regional overview
-2. Sales Analysis — Monthly trends, map, sub-category
-3. Product Analysis — Top 10, loss makers, discount impact
-4. Insights — Business recommendations
 
    <img width="1101" height="640" alt="Screenshot 2026-04-19 074815" src="https://github.com/user-attachments/assets/1320e771-9954-46e5-aff4-4c5a0ae950cc" />
+
+2. Sales Analysis — Monthly trends, map, sub-category
+3. Product Analysis — Top 10, loss makers, discount impact
+
+   <img width="1135" height="654" alt="Screenshot 2026-04-19 111344" src="https://github.com/user-attachments/assets/ecf2b8e7-9c49-4805-9694-495ca26c7833" />
+
+   
+5. Insights — Business recommendations
 
