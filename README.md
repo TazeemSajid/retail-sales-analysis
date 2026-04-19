@@ -1,5 +1,5 @@
 # retail-sales-analysis
-End-to-end retail sales analysis using Python, PostgreSQL, Excel and Power BI
+End-to-end retail sales analysis using Python, PostgreSQL and Power BI
 # Retail Sales & Profit Performance Analysis
 
 ## Business Problem
@@ -31,3 +31,6 @@ Global Superstore — 51,290 rows | 147 countries | 2011-2014
 2. Sales Analysis — Monthly trends, map, sub-category
 3. Product Analysis — Top 10, loss makers, discount impact
 4. Insights — Business recommendations
+
+   <img width="1101" height="640" alt="Screenshot 2026-04-19 074815" src="https://github.com/user-attachments/assets/1320e771-9954-46e5-aff4-4c5a0ae950cc" />
+
