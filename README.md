@@ -19,6 +19,9 @@ and which are causing losses.
 - 22% of orders are unprofitable due to high discounts
 - Southeast Asia generates $884K sales but only 2% margin
 - Cubify 3D Printers generate $12,720 combined loss
+  
+  <img width="1156" height="786" alt="Screenshot 2026-04-19 121417" src="https://github.com/user-attachments/assets/7008a4ed-284d-4ced-861e-c4db024f9fc0" />
+
 
 ## Dataset
 Global Superstore — 51,290 rows | 147 countries | 2011-2014
